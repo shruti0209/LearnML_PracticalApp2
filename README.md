@@ -6,7 +6,7 @@ AI/ML Course Practical Application 2 Exercise - Kaggle Used Cars
 Jupiter Notebook: [Used Cars Analysis](https://github.com/shruti0209/LearnML_PracticalApp2/blob/main/Used_Cars_Analysis.ipynb) 
 
 ### Problem Statement 
-As part of this exercise, I were provided with historic data on sell of used cars. In addition to the actual selling price of the cars, the data included other information of the car like the manufacturer, odometer reading, age, type, model etc of the cars. My goal was to understand what factors make a car more or less expensive and provide clear recommendations to the client -- a used car dealership -- as to what consumers value in a used car.
+As part of this exercise, we were provided with historic data on sell of used cars. In addition to the actual selling price of the cars, the data included other information of the car like the manufacturer, odometer reading, age, type, model etc of the cars. My goal was to understand what factors make a car more or less expensive and provide clear recommendations to the client -- a used car dealership -- as to what consumers value in a used car.
 
 ### Approach 
 Using the available data here's what I did:
